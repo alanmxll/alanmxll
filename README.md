@@ -1,3 +1,5 @@
+<img align='right' src = "https://komarev.com/ghpvc/?username=alanmxll" alt = "alanmxll" />
+
 ### Technology Stack 💻
 
 <img align="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
@@ -16,6 +18,13 @@
 <img align="left" alt="Ubuntu" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" />
 <br />
 <br />
+
+<a href="https://www.linkedin.com/in/alan-maxwell/">
+  <img alt="Alan Maxwell" src="https://img.shields.io/badge/-AlanMaxwell-0E76A8?style=flat&logo=Linkedin&logoColor=white" />
+</a>
+<a href="mailto: alanmaxwellantunes @ gmail. com">
+  <img alt="Alan Maxwell" src="https://img.shields.io/badge/-alanmaxwellantunes@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lorison.gilles@gmail.com" />
+</a>
 
 ### Recent Activities
 

@@ -9,8 +9,8 @@
 </a>
 
 <br />
-<p>Passionate about learning new technologies. Lover in sharing ideas and sowing knowledge.</p>
-<p>Researcher and enthusiast of good development practices. ☕<p/>
+<br />
+<p>Passionate about learning new technologies. Lover in sharing ideas and sowing knowledge. Researcher and enthusiast of good development practices. ☕<p/>
 
 ### Technology Stack 💻
 

@@ -11,7 +11,7 @@
 <br />
 <br />
 <p>
-Hey! My name is Alan and I work as a Software Engineer at Sangati Berga S.A, a company in the industry that produces technologically advanced equipment for the grain milling sector in general. There, together with my team, I develop solutions for the area of management, process automation and IoT. 
+Hey! My name is Alan and I work as a Software Engineer at Sangati Berga S.A, an industrial company that produces technologically advanced equipment for the grain milling sector in general. There, together with my team, I develop solutions for the area of management, process automation and IoT. 
 <br />
 I am passionate about learning new technologies, sharing ideas and knowledge. Completely fascinated by Sci-Fi, Rockets, Astronomy, Universe and everything else. 🚀
 <br />

@@ -24,8 +24,8 @@ I am passionate about learning new technologies, sharing ideas and knowledge. Co
 <center>
 <table>
   <tr>
-      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanmxll&count_private=true&hide=html&layout=compact&theme=midnight-purple" /></td>
-      <td><img width="440px" align="left" src="https://github-readme-stats.vercel.app/api?username=alanmxll&count_private=true&theme=midnight-purple&show_icons=true" /></td>
+      <td><img width="400px" align="left" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=alanmxll&layout=compact&count_private=true&hide=html&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&theme=midnight-purple" /></td>
+      <td><img width="440px" align="left" src="https://github-readme-stats.vercel.app/api?username=alanmxll&count_private=true&theme=midnight-purple&show_icons=true&hide=html&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" /></td>
   </tr>  
 </table>
 </center>

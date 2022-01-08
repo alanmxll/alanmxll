@@ -17,15 +17,7 @@ I am passionate about learning new technologies, sharing ideas and knowledge. Co
 <br />
 <p/>
 
+##
 
-
-### Recent Activities
-
-<center>
-<table>
-  <tr>
-      <td><img width="400px" align="left" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=alanmxll&layout=compact&count_private=true&hide=html&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&theme=midnight-purple" /></td>
-      <td><img width="440px" align="left" src="https://github-readme-stats.vercel.app/api?username=alanmxll&count_private=true&theme=midnight-purple&show_icons=true&hide=html&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" /></td>
-  </tr>  
-</table>
-</center>
+<img height="180em" align="left" src="https://github-readme-stats.vercel.app/api?username=alanmxll&count_private=true&theme=monokai&show_icons=true&hide=html&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" />
+<img height="180em" align="left" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=alanmxll&langs_count=6&layout=compact&count_private=true&hide=html&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&theme=monokai" />
